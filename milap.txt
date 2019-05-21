@@ -1,6 +1,6 @@
 <span id="a">milap@jhumkhawala</span>:<span id="b">~</span><span id="c">$</span> ls milap.portfolio<br/><br/> 
 
-Hi, I'm Milap Anil Jhumkhawla. 
+Hi, I'm Milap Anil Jhumkhawala. 
 
 <br/><br/>
 To get to know me better navigate through the menu below
